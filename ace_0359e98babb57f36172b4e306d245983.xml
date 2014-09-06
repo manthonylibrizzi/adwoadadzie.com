@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site_settings>
+	<ace_theme_color></ace_theme_color>
+	<ace_favicon></ace_favicon>
+	<ace_footer_credit></ace_footer_credit>
+	<ace_link></ace_link>
+	<ace_link_hover></ace_link_hover>
+	<ace_nav_bar></ace_nav_bar>
+	<ace_button_bg></ace_button_bg>
+	<ace_button_border></ace_button_border>
+	<ace_button_text></ace_button_text>
+	<ace_button_bg_hover></ace_button_bg_hover>
+	<ace_button_border_hover></ace_button_border_hover>
+	<ace_button_text_hover></ace_button_text_hover>
+	<ace_h1></ace_h1>
+	<ace_h2></ace_h2>
+	<ace_h3></ace_h3>
+	<ace_h4></ace_h4>
+	<ace_h5></ace_h5>
+	<ace_h6></ace_h6>
+	<ace_></ace_>
+	<ace_header_scripts></ace_header_scripts>
+	<ace_footer_scripts></ace_footer_scripts>
+	<ace_css></ace_css>
+	<ace_feature_enable></ace_feature_enable>
+	<ace_feature_enable_home></ace_feature_enable_home>
+	<ace_feature_title_enable></ace_feature_title_enable>
+	<ace_featured_slide_style></ace_featured_slide_style>
+	<ace_featured_slide_pause></ace_featured_slide_pause>
+	<ace_featured_slide_speed></ace_featured_slide_speed>
+	<ace_enable_breadcrumb></ace_enable_breadcrumb>
+	<ace_enable_excerpt></ace_enable_excerpt>
+	<ace_enable_related></ace_enable_related>
+	<ace_enable_post_thumbnail></ace_enable_post_thumbnail>
+	<ace_thumb_width></ace_thumb_width>
+	<ace_thumb_height></ace_thumb_height>
+	<ace_404_page></ace_404_page>
+</site_settings>
